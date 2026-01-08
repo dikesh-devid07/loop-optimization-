@@ -18,3 +18,4 @@ To analyze which loop performs fewer or more iterations for the same task
 
 
 Used in timers, clocks, system time calculations, embedded systems, and performance analysis.
+#Output Screenshot [Output.png.zip](https://github.com/user-attachments/files/24489331/Output.png.zip)
